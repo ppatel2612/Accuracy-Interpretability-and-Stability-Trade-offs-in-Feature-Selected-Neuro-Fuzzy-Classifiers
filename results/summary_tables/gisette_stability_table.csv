@@ -1,0 +1,4 @@
+Method,MeanJaccard
+baseline,1
+relieff,0.822222222222222
+lasso,0.819047619047619

@@ -1,0 +1,4 @@
+Method,MeanFeatures,MeanRules,MeanMFs,RuleStd
+baseline,5,5.3,26.5,0.483045891539648
+relieff,5,8.1,40.5,1.66332999331662
+lasso,3.8,4.8,18.9,0.788810637746616
